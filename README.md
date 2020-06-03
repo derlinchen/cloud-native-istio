@@ -1,3 +1,4 @@
+# 2020年更新：修改yaml文件使适用于kubernetesv1.18版本
 # 《云原生服务网格Istio：原理、实践、架构与源码解析》随书代码
 
 * 示例应用Weather Forecast部署配置文件：install/
